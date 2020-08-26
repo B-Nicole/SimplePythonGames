@@ -1,7 +1,6 @@
 ##SIMPLE GAMES
-August 26, 2020
 <br>
-<br>
+
 games.py allows the user to run all of the game scripts with
 out having to run each script independently.
 <br>
