@@ -20,3 +20,4 @@ def chooseAGameToPlay():
         print("Error invalid input....Exiting")
         exit()
 
+chooseAGameToPlay()
